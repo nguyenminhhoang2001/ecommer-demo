@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "name": "latop",
+      "img": "https://www.laptop98.com/wp-content/uploads/2020/12/Untitled-1-1-400x400.jpg",
+      "des": "Lenovo Thinkpad P15S- Máy trạm mỏng nhẹ!",
+      "id": 4
+    },
+    {
+      "name": "laptop",
+      "img": "https://www.laptop98.com/wp-content/uploads/2020/12/Lenovo-ThinkPad-X1-Carbon-Gen-8-P1.jpeg",
+      "des": "Lenovo Thinkpad X1 Carbon Gen 8 - Core i5 10210U / 8Gb / 256Gb / FHD IPS",
+      "id": 5
+    },
+    {
+      "name": "laptop",
+      "img": "https://www.laptop98.com/wp-content/uploads/2021/03/New-Project-1-400x400.jpg",
+      "des": "Lenovo Thinkpad X1 Yoga Gen 5 2in1 (2020)",
+      "id": 6
+    },
+    {
+      "name": "latop",
+      "img": "https://www.laptop98.com/wp-content/uploads/2019/04/Untitled-2-400x400.jpg",
+      "des": "Lenovo Thinkpad X1 Yoga Gen 2",
+      "id": 7
+    },
+    {
+      "name": "laptop",
+      "img": "https://www.laptop98.com/wp-content/uploads/2019/04/New-Project-11-400x400.jpg",
+      "des": "Lenovo Thinkpad X1 Carbon Gen 6",
+      "id": 8
+    }
+  ]
+}
