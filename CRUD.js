@@ -1,4 +1,5 @@
-const linkRoot = "http://localhost:3000/product";
+const linkRoot =
+  "https://nguyenminhhoang2001.github.io/ecommer-api/ecommer.json";
 function getByAjax() {
   $.ajax({
     url: `${linkRoot}`,
