@@ -1,4 +1,4 @@
-const linkRoot = "https://ecommer-api.vercel.app";
+const linkRoot = "https://ecommer-api.vercel.app/product";
 function getByAjax() {
   $.ajax({
     url: `${linkRoot}`,
