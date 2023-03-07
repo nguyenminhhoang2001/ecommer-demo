@@ -1,5 +1,4 @@
-const linkRoot =
-  "https://nguyenminhhoang2001.github.io/ecommer-api/ecommer.json";
+const linkRoot = "https://ecommer-api.vercel.app/product";
 function getByAjax() {
   $.ajax({
     url: `${linkRoot}`,
@@ -7,11 +6,11 @@ function getByAjax() {
     dataType: "json",
     success: function (data) {
       render(data);
+      console.log(data);
     },
   });
 }
 getByAjax();
-
 const tbody = document.querySelector("tbody");
 function render(data) {
   let html = data.map((sp) => {

@@ -1,4 +1,4 @@
-const linkRoot = "http://localhost:3000/product";
+const linkRoot = "https://ecommer-api.vercel.app/product";
 function getByAjax() {
   $.ajax({
     url: `${linkRoot}`,
